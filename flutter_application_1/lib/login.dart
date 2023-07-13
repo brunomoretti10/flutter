@@ -7,7 +7,7 @@ class LoginPage extends StatelessWidget {
       backgroundColor: Colors.black,
       appBar: AppBar(
         centerTitle: true,
-        title: const Text('App da Academia'),
+        title: const Text('Gym App'),
       ),
       body: Padding(
         padding: const EdgeInsets.only(
