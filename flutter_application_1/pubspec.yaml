@@ -51,8 +51,8 @@ dev_dependencies:
 
 # The following section is specific to Flutter packages.
 flutter:
-assets:
-  - assets/gym.jpg
+  assets:
+    - assets/gym.jpg
 
   #         style: italic
   #   - family: Trajan Pro
